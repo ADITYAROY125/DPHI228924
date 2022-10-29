@@ -1,0 +1,745 @@
+*{
+align-items: center;
+display: center;
+justify-content: center;
+}
+.head h2{
+    position: absolute;
+width: 87px;
+height: 38.11px;
+left: 89px;
+top: -8px;
+
+}
+.upperbody{
+    position: absolute;
+width: 100%;
+height: 625px;
+left: -1px;
+top: 50px;
+
+background: #003145;
+}
+.upperbody h2{
+    position: absolute;
+width: 9.71px;
+height: 115.91px;
+left: 273px;
+top: 200px;
+
+background: #FFCE5C;
+}
+.upperbody h1{
+    position: absolute;
+width: 643px;
+height: 112px;
+left: 313px;
+top: 190px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+
+
+color: #f8f3f3;
+
+}
+.upperbody p{
+    position: absolute;
+width: 531px;
+height: 112px;
+left: 315px;
+top: 340px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+color: #ECECEC;
+
+}
+.upperbody img{
+    position: absolute;
+width: 242px;
+height: 294px;
+left:  856.34px;
+top: 170px;
+
+background: url(.png);
+transform: rotate(21.41deg);
+}
+.upperbody button{
+    position: absolute;
+width: 184px;
+height: 39px;
+left: 313px;
+top: 468px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+
+text-align: center;
+
+color: #003145;
+
+}
+.midbody{
+    position: absolute;
+width: 100%;
+height: 200px;
+left: -1px;
+top: 675px;
+
+background: #002A3B;
+}
+.midbody .first button{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 380px;
+top: 73px;
+
+background: #F2F4FF;
+border-radius: 15px;
+}
+.midbody .first img{
+    position: absolute;
+left: 33.36%;
+right: 36.48%;
+top: 33.33%;
+bottom: 33.33%;
+
+background: #002A3B;
+}
+.midbody .first h2{
+    position: absolute;
+    width: 157px;
+    height: 17px;
+    left: 445px;
+    top: 60px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    /* or 83% */
+    
+    
+    color: #FFFFFF;
+    
+}
+.midbody .first p{
+    position: absolute;
+width: 169px;
+height: 17px;
+left: 445px;
+top: 90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+.midbody .first h3{
+    position: absolute;
+width: 2px;
+height: 84px;
+left: 690px;
+top: 35px;
+
+background: #C4C4C4;
+}
+.midbody .second button{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 780px;
+top: 73px;
+
+background: #F2F4FF;
+border-radius: 15px;
+}
+.midbody .second h2{
+    position: absolute;
+width: 169px;
+height: 17px;
+left: 847px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+.midbody .second p{
+    position: absolute;
+width: 169px;
+height: 17px;
+left: 847px;
+top: 90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+.midbody .second h3{
+    position: absolute;
+width: 2px;
+height: 84px;
+left: 1100px;
+top: 35px;
+
+background: #C4C4C4;
+}
+.midbody .third button{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1190px;
+    top: 73px;
+    
+    background: #F2F4FF;
+    border-radius: 15px;
+}
+.midbody .third h2{
+    position: absolute;
+width: 120px;
+height: 17px;
+left: 1260px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+.midbody .third p{
+    position: absolute;
+width: 172px;
+height: 17px;
+left: 1260px;
+top: 90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+.bottombody  .line1 p{
+    position: absolute;
+width: 912px;
+height: 24px;
+left: 360px;
+top: 919px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 20px;
+/* or 62% */
+
+text-align: center;
+
+color: #000000;
+
+}
+.bottombody  .line2 p{
+    position: absolute;
+width: 912px;
+height: 24px;
+left: 602px;
+top: 919px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 20px;
+/* or 62% */
+
+text-align: center;
+
+color: #369241;
+
+}
+.para1{
+    position: absolute;
+    width: 600px;
+    height: 301px;
+    left: 273px;
+    top: 1007px;
+    background: #F8F9FD;
+    border-radius: 20px;
+}
+.para1 .img1   img{
+    position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 15.62%;
+bottom: 15.62%;
+
+
+}
+.para1 h1{
+    position: absolute;
+    width: 266px;
+    height: 52px;
+    left: 42px;
+    top: 75px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    letter-spacing: -0.03em;
+    color: #000000;
+}
+.para1 p{
+    position: absolute;
+    width: 471px;
+    height: 50px;
+    left: 44px;
+    top: 141px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #64607D;
+
+}
+.para2{
+    position: absolute;
+width: 600px;
+height: 301px;
+left: 975px;
+top: 1009px;
+
+background: #F8F9FD;
+border-radius: 20px;
+}
+.para2 img{
+    position: absolute;
+    left: 5.47%;
+    right: 55.82%;
+    top: 11.25%;
+    bottom: 65.83%;
+}
+.para2 h1{
+    position: absolute;
+    width: 266px;
+    height: 52px;
+    left: 40px;
+    top: 75px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    letter-spacing: -0.03em;
+    color: #000000;
+
+}
+.para2 p{
+    position: absolute;
+    width: 471px;
+    height: 50px;
+    left: 39px;
+    top: 141px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #64607D;
+}
+.para3{
+    position: absolute;
+    width: 600px;
+    height: 301px;
+    left: 273px;
+    top: 1360px;
+    background: #F8F9FD;
+    border-radius: 20px;
+}
+.para3 img{
+    position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 15.62%;
+bottom: 15.62%;
+}
+.para3 h1{
+    position: absolute;
+    width: 266px;
+    height: 52px;
+    left: 42px;
+    top: 92px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    letter-spacing: -0.03em;
+    color: #000000;
+}
+.para3 p{
+    position: absolute;
+    width: 471px;
+    height: 50px;
+    left: 44px;
+    top: 141px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #64607D;
+}
+.para4{
+    position: absolute;
+width: 600px;
+height: 301px;
+left: 975px;
+top: 1360px;
+background: #F8F9FD;
+border-radius: 20px;
+}
+.para4 img{
+    position: absolute;
+    left: 5.47%;
+    right: 55.82%;
+    top: 15.62%;
+    bottom: 65.83%;
+}
+.para4 h1{
+    position: absolute;
+    width: 266px;
+    height: 52px;
+    left: 40px;
+    top: 92px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    letter-spacing: -0.03em;
+    color: #000000;
+
+}
+.para4 p{
+    position: absolute;
+    width: 471px;
+    height: 50px;
+    left: 39px;
+    top: 141px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #64607D;
+}
+.Endbar{
+    position: absolute;
+width: 100%;
+height: 324px;
+left: 0px;
+top: 1731px;
+
+background: #002A3B;
+
+}
+.Endbar h1{
+    position: absolute;
+width: 30%;
+height: 40px;
+left: calc(50% - 353px/2 - 0.5px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 40px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.Endbar input[type=text] {
+    float: inherit;
+    padding: 9px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8em;
+    margin-left: 20%;
+    top: 10em;
+    width: 999px;
+    margin-top: 8em;
+    margin-left: 2em;
+  }
+  
+  /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
+  @media screen and (max-width: 600px) {
+    .Endbar input[type=text] {
+      float: none;
+      display: block;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+      padding: 14px;
+    }
+    .Endbar input[type=text] {
+      border: 1px solid #ccc;
+    }
+  }
+.Endbar2{
+    position: absolute;
+width: 100%;
+height: 1196px;
+left: 0px;
+top: 2055px;
+
+background: #003145;
+}
+.Endbar .navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Add a red background color to navbar links on hover */
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+.Endbar2 .fol1{
+    position: absolute;
+width: 354px;
+height: 473px;
+left: 134px;
+top: 113px;
+
+background: #FFFFFF;
+/* hubshadow */
+
+box-shadow: 0px 4px 43px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+}
+.Endbar2 img{
+    position: absolute;
+width: 354px;
+height: 174px;
+background: rgba(0, 0, 0, 0.3);
+}
+.fol1 p{
+    position: absolute;
+width: 61px;
+height: 14px;
+
+background: rgba(242, 201, 76, 0.25);
+border-radius: 5px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+
+text-align: center;
+
+color: #000000;
+margin-top: 16em;
+left: 12em;
+}
+.fol1 h1{
+    position: absolute;
+    width: 354px;
+    height: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    margin-top: 12em;
+  }
+
+.fol1 h2{
+    position: absolute;
+    width: 142px;
+    height: 13px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    color: #444444;
+    margin-top: 21.5em;
+    margin-right: 0em;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: -4em;
+    left: 7em;
+
+}
+.fol1 .zero1 h4{
+    position: absolute;
+    width: 31.07px;
+    height: 29.92px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #454545;
+    margin-top: 17.6em;
+    left: 5.2em;
+    word-spacing: 32px;
+    letter-spacing: 0.7em;
+}
+.fol1 .zero1 h6{
+    position: absolute;
+    width: 28.77px;
+    height: 9.89px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 10px;
+    text-align: center;
+    color: #4F4F4F;
+    margin-top: 35em;
+    left: 12em;
+    word-spacing: 3em;
+    letter-spacing: 2px;
+}
+.fol1 button{
+    position: absolute;
+    width: 184.55px;
+    height: 43px;
+    background: #44924C;
+    border-radius: 10px;
+    margin-top: 29em;
+    margin-left: 6em;
+  }
+
+.fol1  h5{
+    position: absolute;
+    width: 113px;
+    height: 18px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    top: -1em;
+    margin-left: 2em;
+    letter-spacing: 1px;
+
+}
